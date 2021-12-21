@@ -1,4 +1,3 @@
 # hello-world
-first try with github
-hello my name is Thanh
-I am very exited with this social platform.
+
+đây là lần thứ 3 test chương trình chạy trên đây
